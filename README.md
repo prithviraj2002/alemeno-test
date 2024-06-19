@@ -1,6 +1,6 @@
-# alemeno_test
+# Medical app
 
-Flutter Developer Intern Assignment
+Medical app UI along with code for web.
 
 ## Project OverView
 1. main.dart - Recognizes the platform and launches the code of the corresponding platform. 2 different set of screens are built for web and mobile view.
